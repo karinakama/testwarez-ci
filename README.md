@@ -92,5 +92,6 @@ docker pull jenkins/jenkins:lts
 
 ## Wszystko gotowe!
 
-Upewnij się, że wszystko jest zainstalowane i działa **przed warsztatem**, aby zapewnić płynny przebieg zajęć.  
-Do zobaczenia wkrótce!  
+Na sam koniec upewnij się, że wszystko jest zainstalowane i działa **przed samym warsztatem**. W razie problemów piszcie proszę na t.klepacki@wp.pl.
+
+Do zobaczenia wkrótce! :)  
